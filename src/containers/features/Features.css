@@ -19,7 +19,7 @@
     line-height: 40px;
     letter-spacing: -0.04em;
     color: #FFFFFF;
-    min-width: 250px;
+    min-width: 220px;
 }
 
 .gpt3__features-container-feature-title div {
@@ -54,6 +54,13 @@
     .gpt3__features-heading {
         margin: 0 0 2rem 0;
     }
+    .gpt3__features-container-feature-title h1 {
+        min-width: 25px;
+        min-width: 25px;
+        font-size: 18px;
+        line-height: 24px;
+
+    }
 }
 
 
@@ -61,5 +68,10 @@
     .gpt3__features-heading h1 {
         font-size: 28px;
         line-height: 38px;
+    }
+    .gpt3__features-container-feature-title h1 {
+        min-width: 25px;
+        font-size: 18px;
+        line-height: 24px;
     }
 }
