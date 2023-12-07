@@ -4,23 +4,23 @@ import { Features } from '../../containers'
 
 const featuresData=[
   {
-    title:'Improving end distrusts instantly ',
-    text:'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title:'Compliance Assurance ',
+    text:'SHD is designed to meet and exceed industry compliance standards, ensuring that healthcare organizations adhere to legal and regulatory requirements. This feature provides peace of mind, knowing that data management aligns with the latest privacy and security standards.'
   },
 
   {
-    title:'Become the tended active ',
-    text:'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.'
+    title:'MLP Security Integration',
+    text:'SHD incorporates Multilayer Perceptron (MLP) technology, a form of artificial intelligence, to enhance security measures. MLP`s neural network capabilities provide a sophisticated defense against evolving cyber threats.'
   },
 
   {
-    title:'Message or am nothing',
-    text:'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.'
+    title:'Advanced Encryption Technology',
+    text:'SHD employs state-of-the-art encryption algorithms to secure healthcare data, ensuring that sensitive information remains confidential and protected from unauthorized access.'
   },
 
   {
-    title:'Message or am Really boy law county',
-    text:'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.'
+    title:'Dynamic Threat Management',
+    text:'SHD is equipped with dynamic threat management capabilities, employing proactive monitoring and advanced analytics to swiftly identify and respond to potential security threats in real-time. This ensures a vigilant defense system that effectively mitigates risks and preserves the integrity of healthcare data.'
   }
 ]
 
